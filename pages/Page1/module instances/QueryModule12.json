@@ -1,0 +1,136 @@
+{
+  "gitSyncId": "675755222710235151d2c816_8ed54cee-1d7a-441c-97e7-82f2829a9b3d",
+  "id": "Page1_QueryModule12",
+  "moduleUUID": "f346f71f-4259-4172-b1ca-fb62e7bc3693",
+  "packageUUID": "963bd26c-9065-48f1-8e21-87a0e2504a13",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "country": "Norway",
+      "input1": "ABC",
+      "input10": "abc",
+      "input11": "def",
+      "input12": "ghi",
+      "input13": "jkl",
+      "input2": "DEF",
+      "input3": "GHI",
+      "input4": "JKL",
+      "input5": "MNO",
+      "input6": "PQR",
+      "input7": "STU",
+      "input8": "WXY",
+      "input9": "Z",
+      "limit": "3"
+    },
+    "moduleInputs": {
+      "bbukiierad": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "abc",
+        "id": "bbukiierad",
+        "label": "input10",
+        "propertyName": "inputs.input10"
+      },
+      "bthgiagvzi": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "3",
+        "id": "bthgiagvzi",
+        "label": "limit",
+        "propertyName": "inputs.limit"
+      },
+      "chkmtrhyrc": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "ABC",
+        "id": "chkmtrhyrc",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      },
+      "evzzlkfyrv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "Z",
+        "id": "evzzlkfyrv",
+        "label": "input9",
+        "propertyName": "inputs.input9"
+      },
+      "fuzufgocmv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "WXY",
+        "id": "fuzufgocmv",
+        "label": "input8",
+        "propertyName": "inputs.input8"
+      },
+      "gdfivfhtwq": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "ghi",
+        "id": "gdfivfhtwq",
+        "label": "input12",
+        "propertyName": "inputs.input12"
+      },
+      "iraabtkxqu": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "MNO",
+        "id": "iraabtkxqu",
+        "label": "input5",
+        "propertyName": "inputs.input5"
+      },
+      "irbwjwbmit": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "PQR",
+        "id": "irbwjwbmit",
+        "label": "input6",
+        "propertyName": "inputs.input6"
+      },
+      "jzpcyvkqcv": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "DEF",
+        "id": "jzpcyvkqcv",
+        "label": "input2",
+        "propertyName": "inputs.input2"
+      },
+      "msdbhtabmj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "def",
+        "id": "msdbhtabmj",
+        "label": "input11",
+        "propertyName": "inputs.input11"
+      },
+      "oybodfgeyr": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "GHI",
+        "id": "oybodfgeyr",
+        "label": "input3",
+        "propertyName": "inputs.input3"
+      },
+      "qqyybfdljj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "STU",
+        "id": "qqyybfdljj",
+        "label": "input7",
+        "propertyName": "inputs.input7"
+      },
+      "sccmylrhwl": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "jkl",
+        "id": "sccmylrhwl",
+        "label": "input13",
+        "propertyName": "inputs.input13"
+      },
+      "ucnckgiyyf": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "JKL",
+        "id": "ucnckgiyyf",
+        "label": "input4",
+        "propertyName": "inputs.input4"
+      },
+      "xdagrmdqos": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "Norway",
+        "id": "xdagrmdqos",
+        "label": "country",
+        "propertyName": "inputs.country"
+      }
+    },
+    "name": "QueryModule12",
+    "pageId": "Page1"
+  }
+}

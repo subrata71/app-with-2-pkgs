@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "675755222710235151d2c816_478edf82-5aa8-4b3f-9352-35da364400e6",
+  "id": "Page1_GetAppsmithMockUsers1",
+  "moduleUUID": "7fd4c5b8-06c1-4785-8ec2-e7ee2d90e9f3",
+  "packageUUID": "3eeafec2-835d-49ff-bbc8-f0f52b578f05",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "inputs": {
+      "input1": "123"
+    },
+    "moduleInputs": {
+      "hmollgvlcb": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "123",
+        "id": "hmollgvlcb",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "GetAppsmithMockUsers1",
+    "pageId": "Page1"
+  }
+}
